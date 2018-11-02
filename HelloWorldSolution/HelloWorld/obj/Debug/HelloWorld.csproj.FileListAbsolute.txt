@@ -5,3 +5,9 @@ D:\Git\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.pdb
 D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.exe
 D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\github\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\github\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.exe
+D:\github\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\github\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe
+D:\github\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\github\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

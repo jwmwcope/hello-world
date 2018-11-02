@@ -11,6 +11,9 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Type something");
+            string input = Console.ReadLine();
+            Console.WriteLine($"You wrote {input}");
             Console.WriteLine("Goodbye World");
             Console.ReadLine();
         }
