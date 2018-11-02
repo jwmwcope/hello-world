@@ -1,1 +1,7 @@
 C:\Users\matt\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Git\hello-world\HelloWorldSolution\HelloWorld\obj\Debug\HelloWorld.pdb
