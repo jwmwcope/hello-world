@@ -1,4 +1,3 @@
 # hello-world
-Hello World Repository
 
-This is a test repository.  That's all.
+This just became so much more than a hello world repository.  EPIC!
